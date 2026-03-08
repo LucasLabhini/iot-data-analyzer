@@ -41,4 +41,4 @@ This repository is a **demonstration showcase**.
 
 ---
 
-*Developed by **Lucas Labhini** as part of the BUT Computer Science program (IUT Vannes, France).*
+*Developed by **Lucas Labhini** as part of the BUT Computer Science program (IUT Vannes, France) during an **Erasmus+ international mobility** at TU Dublin.*
